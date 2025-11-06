@@ -1,1 +1,1 @@
-run this command: pip install pvporcupine pyttsx3 speechrecognition pyaudio google-generativeai
+run this command: pip install pvporcupine pyttsx3 speechrecognition pyaudio google-generativeai Tkinter
