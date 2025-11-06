@@ -4,4 +4,4 @@
 
 # Python-Assistant
 
-A Python Assistant using gemini api key.
+A Python Assistant using gemini api key. to create a custom wake-word you need to go here https://console.picovoice.ai/porcupine
